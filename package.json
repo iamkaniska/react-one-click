@@ -1,0 +1,25 @@
+{
+  "name": "react-one-click",
+  "version": "1.0.0",
+  "description": "its a react package where we can install react in one click",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "react-setup": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamkaniska/react-one-click.git"
+  },
+  "dependencies": {
+  "open": "^8.4.0"
+},
+  "author": "Kaniska Maity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamkaniska/react-one-click/issues"
+  },
+  "homepage": "https://github.com/iamkaniska/react-one-click#readme"
+}
